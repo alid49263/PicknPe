@@ -1,0 +1,12 @@
+.tag{
+    margin-right: 10px;
+    margin-bottom:5px;
+    border:1px solid white;
+    border-radius: 5px;
+}
+.tag-inner{
+    padding:5px 10px;
+}
+.tag:hover{
+    background-color: rgb(237, 90, 107);
+}

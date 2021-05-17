@@ -1,0 +1,45 @@
+.search-container{
+    height: 11vh;
+    width:100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.search-food-form{
+    padding:10px 30px;
+    border-radius: 0.8rem;
+    box-shadow: rgb(28 28 28 / 8%) 0px 2px 8px;
+    border: 1px solid rgb(232, 232, 232);
+    width:400px;
+    display: flex;
+    align-items: center;
+}
+.search-food-input{
+    border:none;
+    background-color: none;
+    outline:none;
+    font-family: poppins;
+}
+.search-button{
+    border: none;
+    padding:10px 20px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: auto;
+    border:1px solid grey;
+    font-family: poppins;
+}
+.search-button:hover{
+    background-color: rgb(237, 90, 107);
+    color: white;
+    border:1px solid rgb(237, 90, 107);;
+}
+@media screen and (max-width:801px){
+    .search-food-form{
+        width:300px;
+        padding:10px 15px;
+    }
+    .search-button{
+        padding: 3px 5px;
+    }
+}

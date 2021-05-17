@@ -1,0 +1,26 @@
+[
+    {
+        "id":"4",
+        "resName":"Service First",
+        "restRating":"4.8",
+        "type":["Home Delivery","Pickup"],
+        "dist":"4.5 KM",
+        "image":"https://images.unsplash.com/photo-1552566626-52f8b828add9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+    },
+    {
+        "id":"5",
+        "resName":"Kitchen Corral",
+        "restRating":"4.8",
+        "type":["Home Delivery","Pickup"],
+        "dist":"5 KM",
+        "image":"https://images.unsplash.com/photo-1514933651103-005eec06c04b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80"
+    },
+    {
+        "id":"6",
+        "resName":"Dine Fine",
+        "restRating":"4.8",
+        "type":["Home Delivery","Pickup"],
+        "dist":"7 KM",
+        "image":"https://images.unsplash.com/photo-1555396273-367ea4eb4db5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80"
+    }
+]

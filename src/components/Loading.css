@@ -1,0 +1,6 @@
+.loading-container{
+    display:grid;
+    place-items: center;
+    position:absolute;
+    font-family:poppins
+}
